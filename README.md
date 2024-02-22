@@ -1,6 +1,9 @@
 # MS-SQL-and-MS-Access-library-project
 This is a simple library application made in MS Access based on a MS SQL database.
 
+Data Cleaning:
+Before using the mock data generated online, data needed cleaning. Standard procedures for data cleaning were used.
+
 MS SQL library:
 The library is built on mock data for books and library members. It illustrates: creating relational tables, bulk insert of data, using common table expressions and different joins, views, stored procedures, triggers, creating logins, users and backups.
 
